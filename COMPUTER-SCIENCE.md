@@ -4,5 +4,5 @@ The problem with using the recursion method to find the fibanacci of a number is
 
 # Write a function that takes in a Proth Number and uses Proth's theorem to determine if said number is prime? You can write this in any programming language but C/C++/Golang are preferred
 
->git clone https://github.com/ezchinonso/job-qna.git && cd job-qna && python [prothnumber](https://github.com/ezchinonso/job-qna/prothnumber.py)
+>git clone https://github.com/ezchinonso/job-qna.git && cd job-qna && python [prothnumber.py](https://github.com/ezchinonso/job-qna/blob/master/prothnumber.py)
 
